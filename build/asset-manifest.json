@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4030ea4.css",
+    "main.js": "/static/js/main.e38c5dfc.js",
+    "static/media/person1.jpg": "/static/media/person1.5647c634e4a2c4ba9359.jpg",
+    "static/media/person2.jpg": "/static/media/person2.6fdf22b71ff03aeb5563.jpg",
+    "static/media/person3.jpeg": "/static/media/person3.0a0bacaebc402a68393f.jpeg",
+    "static/media/person5.jpeg": "/static/media/person5.393811c40101c65417e0.jpeg",
+    "static/media/person4.jpg": "/static/media/person4.f13e7be705d523e2c27e.jpg",
+    "static/media/sliderIcon.svg": "/static/media/sliderIcon.8ffb4c74b00f22b48b52e96e56394277.svg",
+    "static/media/circleIcon.svg": "/static/media/circleIcon.317d0e72d2699b3be092d02facb2dafe.svg",
+    "static/media/mediumIcon.svg": "/static/media/mediumIcon.7d50ced886a62d713dbeec54f27844eb.svg",
+    "static/media/lowIcon.svg": "/static/media/lowIcon.f3327c74ae3d3854b338f2073f231f61.svg",
+    "static/media/highIcon.svg": "/static/media/highIcon.b1ad64be6f7c4cd2859ff66fc1da1f7b.svg",
+    "static/media/pendingIcon.svg": "/static/media/pendingIcon.21e4abb59845765c18d5b2f134130e34.svg",
+    "index.html": "/index.html",
+    "static/media/plusIcon.svg": "/static/media/plusIcon.b5cec78d074350ef98d04c58f8f80cbc.svg",
+    "static/media/verticleHalfFillIcon.svg": "/static/media/verticleHalfFillIcon.bb09f82dbe429f0b734fb4d93600a40a.svg",
+    "static/media/exclamationIcon.svg": "/static/media/exclamationIcon.68a641d9b7e93089d860974cc5898c51.svg",
+    "static/media/crossIcon.svg": "/static/media/crossIcon.fc601b92a2df5c007b5596843ef66b4d.svg",
+    "static/media/urgentIcon.svg": "/static/media/urgentIcon.f7187ca2af2bc687ac0584994d6391f8.svg",
+    "static/media/tickIcon.svg": "/static/media/tickIcon.a819ece16688792ac4fc7c43e89bf873.svg",
+    "static/media/threeDotsIcon.svg": "/static/media/threeDotsIcon.3ee988fa2a2ae169e33c9a0f2d85158a.svg",
+    "static/media/downIcon.svg": "/static/media/downIcon.1a27c9cdda07725fcb95e0891186a4f2.svg",
+    "main.c4030ea4.css.map": "/static/css/main.c4030ea4.css.map",
+    "main.e38c5dfc.js.map": "/static/js/main.e38c5dfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4030ea4.css",
+    "static/js/main.e38c5dfc.js"
+  ]
+}
